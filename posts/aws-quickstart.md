@@ -6,13 +6,17 @@ date: "2020-12-27"
 
 "Cloud computing" plays a vital role in the creation of software products and services. It's also one of the most highly sought-after skills in the tech industry.
 
+<br />
+
 In fact, most of the projects on this site will require cloud interaction of some sort—particularly with AWS's serverless products.
 
-## Getting Started
+<p>&nbsp;</p>
+
+# **Getting Started**
 
 > To use AWS in these projects, we'll need to set up an account, the CLI, and the SDK.
 
-### Create an account
+## Create an account
 
 If you don't already have an account then [sign up here](https://portal.aws.amazon.com/billing/signup#/start).
 
@@ -145,7 +149,7 @@ Their on-demand pricing means the cost scales with usage. There is a [free tier]
 
 For small projects with light traffic, this usually translates to monthly costs of **less than a dollar** (if not completely free).
 
-In comparison, the price of hosting a server typically starts at **$5.00 per month**.
+In comparison, the price of hosting a server typically starts at <strong> **$5.00 per month**</strong>.
 
 ## Continue Learning
 
